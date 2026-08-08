@@ -26,6 +26,8 @@ dietary restrictions using the Google Gemini API.
 
 From the project root:
 
+python -m streamlit run streamlit_app.py
+
 ```bash
 streamlit run recipe_generator/streamlit_app.py
 ```
