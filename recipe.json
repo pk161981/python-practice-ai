@@ -1,0 +1,16 @@
+{
+  "name": "Pasta Carbonara",
+  "calories": 280,
+  "ingredients": [
+    "spaghetti",
+    "eggs",
+    "bacon",
+    "parmesan cheese"
+  ],
+  "instructions": [
+    "Cook spaghetti according to package directions.",
+    "Fry bacon until crispy.",
+    "Beat eggs and mix with parmesan cheese.",
+    "Combine cooked spaghetti with egg mixture and bacon."
+  ]
+}
