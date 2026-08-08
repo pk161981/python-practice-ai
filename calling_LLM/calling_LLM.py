@@ -2,12 +2,7 @@ from pydantic import BaseModel
 from dotenv import load_dotenv
 
 #calling LLM Model programatically using Google Gemini API
-
 #here we are calling the Google gemini model to interact with the LLM
-#Google Gemini API is a powerful tool that allows developers to integrate 
-# advanced language models into their applications. 
-# It provides a simple and efficient way to generate human-like text, answer questions,
-#  and perform various natural language processing tasks.
 #URL : https://ai.google.dev/gemini-api/docs/models
 
 #Install the SDK using pip

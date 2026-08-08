@@ -1,3 +1,4 @@
 pydantic
 google-genai
 dotenv # Load environment variables from a .env file
+streamlit

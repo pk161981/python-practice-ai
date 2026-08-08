@@ -231,13 +231,5 @@ for i in range(len(revenues)):
         margin = profit * 100 / revenue if revenue != 0 else 0
         print(f"{quarter}: Revenue={revenue}, Expenses={expenses}, Profit={profit}, Margin={margin:.2f}%")    
 
-     #Tuples
-    #A tuple is a collection of items that are ordered and unchangeable.
-    #Tuples are defined using parentheses () and can contain elements of different data types.
-    #Tuples are Immutable whereas Lists are Mutable. 
-    # This means that once a tuple is created, its elements cannot be changed, added, or removed. 
-    # In contrast, lists can be modified after creation.
-    #Create a tuple for RGB color values
-    rgb_color = (255, 0, 0) #red color
-    print("RGB color tuple is:", rgb_color)
+    
 
